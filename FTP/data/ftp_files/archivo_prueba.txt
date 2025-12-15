@@ -1,0 +1,6 @@
+Este es un archivo de prueba para demostrar la transferencia de archivos via FTP.
+
+El protocolo FTP (File Transfer Protocol) opera en la Capa 7 del modelo OSI y utiliza TCP para garantizar
+la transferencia confiable de datos.
+
+Fecha de creacion: 2025-12-15

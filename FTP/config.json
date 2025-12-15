@@ -1,0 +1,24 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 2121,
+        "max_connections": 10,
+        "max_connections_per_ip": 5
+    },
+    "directories": {
+        "ftp_root": "data/ftp_files",
+        "logs": "logs"
+    },
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin123",
+            "permissions": "elradfmwMT"
+        },
+        {
+            "username": "user1",
+            "password": "pass123",
+            "permissions": "elr"
+        }
+    ]
+}
