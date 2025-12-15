@@ -16,7 +16,7 @@ Esta prueba verifica que el servidor funciona correctamente sin depender de la r
 1.  Abre una **nueva consola** (CMD o PowerShell).
 2.  Escribe el siguiente comando y presiona Enter:
     ```cmd
-    ftp localhost 2121
+    ftp localhost 
     ```
 3.  Cuando pida usuario, escribe: `admin`
 4.  Cuando pida contraseña, escribe: `admin123`

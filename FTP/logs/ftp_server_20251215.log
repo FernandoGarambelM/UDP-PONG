@@ -5,3 +5,26 @@
 2025-12-15 12:10:54,166 - INFO - masquerade (NAT) address: None
 2025-12-15 12:10:54,166 - INFO - passive ports: 60000->60099
 2025-12-15 12:10:54,166 - INFO - >>> starting FTP server on 0.0.0.0:2121, pid=17208 <<<
+2025-12-15 12:30:17,534 - INFO - Usuario agregado: admin con permisos: elradfmwMT
+2025-12-15 12:30:17,534 - INFO - Usuario agregado: user1 con permisos: elr
+2025-12-15 12:30:17,540 - INFO - Servidor FTP iniciado en 0.0.0.0:2121
+2025-12-15 12:30:17,544 - INFO - concurrency model: async
+2025-12-15 12:30:17,544 - INFO - masquerade (NAT) address: None
+2025-12-15 12:30:17,544 - INFO - passive ports: 60000->60099
+2025-12-15 12:30:17,544 - INFO - >>> starting FTP server on 0.0.0.0:2121, pid=17996 <<<
+2025-12-15 12:38:43,072 - INFO - Usuario agregado: admin con permisos: elradfmwMT
+2025-12-15 12:38:43,074 - INFO - Usuario agregado: user1 con permisos: elr
+2025-12-15 12:38:43,082 - INFO - Servidor FTP iniciado en 0.0.0.0:21
+2025-12-15 12:38:43,082 - INFO - concurrency model: async
+2025-12-15 12:38:43,082 - INFO - masquerade (NAT) address: None
+2025-12-15 12:38:43,082 - INFO - passive ports: 60000->60099
+2025-12-15 12:38:43,084 - INFO - >>> starting FTP server on 0.0.0.0:21, pid=12816 <<<
+2025-12-15 12:39:13,901 - INFO - 127.0.0.1:49957-[] FTP session opened (connect)
+2025-12-15 12:39:13,901 - INFO - Cliente conectado desde 127.0.0.1:49957
+2025-12-15 12:39:42,827 - INFO - 127.0.0.1:49957-[admin] USER 'admin' logged in.
+2025-12-15 12:39:42,827 - INFO - Usuario autenticado: admin desde 127.0.0.1
+2025-12-15 12:42:03,752 - INFO - 127.0.0.1:49957-[admin] STOR C:\Users\36nue\Documents\REDESPROYECTO\UDP-PONG\FTP\data\ftp_files\HolaMundo.txt completed=1 bytes=19 seconds=0.016
+2025-12-15 12:42:03,752 - INFO - Archivo subido: C:\Users\36nue\Documents\REDESPROYECTO\UDP-PONG\FTP\data\ftp_files\HolaMundo.txt por admin
+2025-12-15 12:42:14,068 - INFO - 127.0.0.1:49957-[admin] FTP session closed (disconnect).
+2025-12-15 12:42:14,070 - INFO - Usuario desconectado: admin
+2025-12-15 12:42:14,070 - INFO - Cliente desconectado: 127.0.0.1:49957
